@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/rQYlgzjo/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ikustim/Nexus-Pet-SpawnerV2/refs/heads/main/lua.v2"))()
